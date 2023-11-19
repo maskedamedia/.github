@@ -24,10 +24,9 @@ All software in this repository is released under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or need assistance, please feel free to contact us at [your-email@example.com].
+If you have any questions, suggestions, or need assistance, please feel free to contact us at [info@maskeproductions.com].
 
 We appreciate your interest in our open-source projects and look forward to collaborating with you.
 
-Thank you for being a part of [Your Organization's Name]!
+Thank you for being a part of us!
 
-# .github
